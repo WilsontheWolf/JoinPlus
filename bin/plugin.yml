@@ -1,4 +1,4 @@
 name: JoinPlus
-version: 1.0.0
+version: 1.0.1-dev
 main: me.WilsontheWolf.JoinPlus.main
 Description: Replaces the join messages with custom ones.

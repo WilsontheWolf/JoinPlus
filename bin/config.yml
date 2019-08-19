@@ -1,0 +1,3 @@
+enabled: true
+joinmsg: "{bold}{gold}[{dark_green}+{gold}]{reset}{dark_aqua} {player}{dark_purple} has joined the game!"
+leavemsg: "{bold}{gold}[{dark_red}-{gold}]{reset}{dark_aqua} {player}{dark_purple} has left the game!"
